@@ -47,3 +47,11 @@ Here i'm allowing anyone to generate a ticket but they must register and login t
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/e7zzja5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here i've created 3 tiers of SLA's. SEV-A/B/C
+</p>
+<br />
+
