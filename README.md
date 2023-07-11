@@ -32,7 +32,7 @@ Here i am creating a role titled Supreme Admin which will allow anyone in this r
 <br />
 
 <p>
-<img src="https://i.imgur.com/HFwUwBR.pn" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HFwUwBR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Here i'm creating an agent, Jane Doe with admin access.
